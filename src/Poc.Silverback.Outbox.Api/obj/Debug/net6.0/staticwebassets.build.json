@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "/FNIT+bkY3pe5S9Vvphz4LYrMFmg6wabzUNt4pTrgDs=",
+  "Source": "Poc.Silverback.Outbox.Api",
+  "BasePath": "_content/Poc.Silverback.Outbox.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
