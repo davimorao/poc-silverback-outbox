@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\buildMultiTargeting\Poc.Silverback.Outbox.Api.props" />
-</Project>
